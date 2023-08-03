@@ -8,7 +8,7 @@ A Python program designed for bookstore clerks to efficiently manage book invent
 * Search for specific books by title or author
 * User-friendly menu interface for easy navigation
   
-How to Use:
+## How to Use:
 1. Clone the repository to your local machine (with Python and SQLite installed).
 2. Run the program using the provided Python script (e.g., bookstore_clerk_app.py).
 3. The menu will guide you through various tasks to manage the bookstore's inventory effectively.
