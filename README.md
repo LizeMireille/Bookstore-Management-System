@@ -13,4 +13,4 @@ A Python program designed for bookstore clerks to efficiently manage book invent
 2. Run the program using the provided Python script (e.g., bookstore_clerk_app.py).
 3. The menu will guide you through various tasks to manage the bookstore's inventory effectively.
 
-### This application was developed based on the task instructions from HyperionDev, a software training institute. It encompasses one of their capstone tasks from the provided syllabus.
+#### This application was developed based on the task instructions from HyperionDev, a software training institute. It encompasses one of their capstone tasks from the provided syllabus.
